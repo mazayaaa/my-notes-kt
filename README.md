@@ -1,1 +1,2 @@
-"# my-notes-kt" 
+# My Notes App
+implemented CRUD
