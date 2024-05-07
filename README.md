@@ -1,2 +1,2 @@
 # My Notes App
-implemented CRUD
+implemented CRUD using SQLite 
